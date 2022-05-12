@@ -9,5 +9,5 @@ This is the projects that I've done on the Data Science learning platform, [Data
 ## Python
 |#| Project | Description |
 | --- | --- | --- |
-| 01 | `01 Investigating Netflix Movies and Guest Stars in The Office` | Analyzed the dataset containing more than 8,500 Netflix movies and TV shows, including cast members, duration, and genre. Used everything essential from lists and loops to pandas and matplotlib.|
+| 01 | `Investigating Netflix Movies and Guest Stars in The Office` | Analyzed the dataset containing more than 8,500 Netflix movies and TV shows, including cast members, duration, and genre. Used everything essential from lists and loops to pandas and matplotlib.|
 
