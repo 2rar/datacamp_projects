@@ -6,8 +6,6 @@
 
 This is the projects that I've done on the Data Science learning platform, [DataCamp](https://app.datacamp.com/learn)
 
-https://app.datacamp.com/learn
-
 ## Python
 | Project | Description |
 | --- | --- |
