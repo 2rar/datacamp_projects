@@ -9,7 +9,5 @@ This is the projects that I've done on the Data Science learning platform, [Data
 ## Python
 | Project | Description |
 | --- | --- |
-| `Investigating Netflix Movies and Guest Stars in The Office` | Analyzed the dataset containing more than 8,500 Netflix movies and TV shows, including cast members, duration, and genre. Used everything essential from lists and loops to pandas and matplotlib.|
-| `A New Era of Data Analysis in Baseball` | Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton. |
-| `A Visual History of Nobel Prize Winners` | Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed? |
-| `ASL Recognition with Deep Learning` | Build a convolutional neural network to classify images of letters from American Sign Language. |
+| `01 Investigating Netflix Movies and Guest Stars in The Office` | Analyzed the dataset containing more than 8,500 Netflix movies and TV shows, including cast members, duration, and genre. Used everything essential from lists and loops to pandas and matplotlib.|
+
